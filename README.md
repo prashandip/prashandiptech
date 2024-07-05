@@ -1,6 +1,6 @@
 # Project Live At
 
-https://github.com/prashandip/react-firebase-tutorial.git
+https://prashandip.github.io
 
 ### Info
 
